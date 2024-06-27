@@ -1,11 +1,14 @@
 # Logs
 logs
 *.log
+# ignore ALL files in ANY directory named temp
+temp/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
+
 
 node_modules
 dist

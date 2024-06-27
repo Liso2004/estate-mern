@@ -1,0 +1,23 @@
+[33mcommit d0e476ed2351a63a7ad173980077b9165fddc9cc[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: liso <lisowycliff@gmail.com>
+Date:   Thu Jun 27 19:20:37 2024 +0200
+
+    create and run the server
+
+[33mcommit de2b1268c087bae10e5c8e72ed7b498815990051[m
+Author: liso <lisowycliff@gmail.com>
+Date:   Mon Jun 24 22:09:40 2024 +0200
+
+    create header component for the site
+
+[33mcommit 768cca1d9e455cea1e78f9170e179fbc45365b74[m
+Author: liso <lisowycliff@gmail.com>
+Date:   Mon Jun 17 22:13:23 2024 +0200
+
+    create pages and routes
+
+[33mcommit f56a8602019d54b83379cd0f951a90077d7d4e57[m
+Author: liso <lisowycliff@gmail.com>
+Date:   Mon Jun 17 19:43:30 2024 +0200
+
+    install react js and tailwind css and create first template
